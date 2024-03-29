@@ -1,5 +1,5 @@
 Profile Page Project
-This project is a simple profile page designed for GitHub, showcasing basic functionality commonly found in social media platforms. It includes features such as a follow button, a message button, a profile picture display, and follower/following count indicators.
+This project is a simple profile page, showcasing basic functionality commonly found in social media platforms. It includes features such as a follow button, a message button, a profile picture display, and follower/following count indicators.
 
 Features:
 Follow Button: Allows users to follow the profile owner.
